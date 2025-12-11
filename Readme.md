@@ -1,6 +1,6 @@
 # Hi there
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?;C+Programming+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=C+Programming+Enthusiast; Android+Enthusiast ;)](https://git.io/typing-svg)
 
 ## 🚀 Skills
 - C, Python
